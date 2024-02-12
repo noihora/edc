@@ -72,7 +72,9 @@ https://github.com/noihora/edc.git
 
 git clone git@github.com:noihora/edc.git
 
-※ファイル名変更コマンド（ファイル名を変更したい人は使用してください）mv laravel-docker-template ★好きなファイル名を付けてください
+※ファイル名変更コマンド（ファイル名を変更したい人は使用してください）
+
+mv laravel-docker-template ★好きなファイル名を付けてください
 
 **リモートリポジトリの紐付け**
 
