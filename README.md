@@ -61,7 +61,7 @@ MySQL
 
 ## ER図
 
-![ER図](./ER図.png)
+![ER](./ER.png)
 
 ## 環境構築
 **GitHub　URL**
