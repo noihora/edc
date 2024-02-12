@@ -71,3 +71,29 @@ https://github.com/noihora/edc.git
 **クローン**
 
 git clone git@github.com:noihora/edc.git
+
+※ファイル名変更コマンド（ファイル名を変更したい人は使用してください）mv laravel-docker-template ★好きなファイル名を付けてください
+
+**リモートリポジトリの紐付け**
+
+cd ★クローンしたファイル名を記載
+
+git remote set-url origin ★作成したリポジトリのurl
+
+**リモートリポジトリに反映**
+
+git add .
+
+git commit -m "★この中は変更内容を記載"
+
+git push origin main
+
+**エラーがでた場合**
+
+sudo chmod -R 777 *
+
+※上記入力後、パスワードを求められるのでsudo設定のパスワードを入力してください
+
+sudoでパスワードを設定してない場合は下記URLを参照してください
+
+https://qiita.com/_toki/items/cced337d72103ed4387c
